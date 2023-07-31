@@ -12,4 +12,5 @@
 
 - [Next.js](https://nextjs.org/) - React Framework
 - [Tailwind css](https://tailwindcss.com/) - For styles
+- [MongoDB Atlas](https://www.mongodb.com/atlas/database) - For database
 
